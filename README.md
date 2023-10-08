@@ -1,16 +1,12 @@
 # livedatafetch
 
-A new Flutter project.
+A Flutter project aimed at implementing fetching live data. Here, in this project I have implemented fetching the live price of Bitcoin.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this project and you're good to go!
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1696763213](https://github.com/JeevsDev/livedatafetch/assets/96291802/8a72efcf-230c-4b73-b1d2-fe984d32bdc8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
